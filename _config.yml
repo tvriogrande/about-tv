@@ -18,14 +18,14 @@ links:
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
-    Username: harsh98trivedi
+    Username: riograndetv
     Color: '#3b5998'
     Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
     URL: https://www.instagram.com
-    Username: harsh98trivedi
+    Username: tvriograndeoficial
     Color: '#DD2A7B'
     Icon-Class: fab fa-instagram
 
@@ -34,7 +34,7 @@ links:
     URL: https://x.com
     Username: harsh98trivedi
     Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+    Icon-Class: fab fa-yelp
 
      # THREADS.NET
   - Name: Threads
