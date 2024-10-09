@@ -42,7 +42,7 @@ links:
     URL: https://tvriogrande.github.io
     Username: portfolio/
     Color: '#1DA1F2'
-    Icon-Class: fab fa-newspaper-o
+    Icon-Class: fa fa-external-link
 
    
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
